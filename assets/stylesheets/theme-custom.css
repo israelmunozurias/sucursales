@@ -1,0 +1,804 @@
+/* Add here all your CSS customizations */
+.select2-drop-mask {
+	z-index: 10010;
+}
+
+.select2-drop {
+    z-index: 10011;
+}
+
+.select2-search {
+    z-index: 10012;
+}
+
+/* seguimiento de pedido */
+.sdp-boton-1 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:1100px;
+        z-index: 10;
+}
+
+.sdp-boton-2 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:965px;
+        z-index: 10;
+}
+
+.sdp-boton-3 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:780px;
+        z-index: 10;
+}
+
+.sdp-boton-4 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:600px;
+        z-index: 10;
+}
+
+.sdp-boton-5 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:495px;
+        z-index: 10;
+}
+
+.sdp-boton-6 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.sdp-boton-7 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:815px;
+        z-index: 10;
+}
+
+.sdp-boton-8 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:415px;
+        z-index: 10;
+}
+
+.sdp-boton-9 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:685px;
+        z-index: 10;
+}
+
+.sdp-boton-10 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:300px;
+        z-index: 10;
+}
+
+.sdp-boton-11 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:180px;
+        z-index: 10;
+}
+
+.sdp-boton-12 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:100px;
+        z-index: 10;
+}
+.sdp-boton-13 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:20px;
+        z-index: 10;
+}
+.sdp-boton-14 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:900px;
+        z-index: 10;
+}
+/* seguimiento de entrada */
+.sde-boton-1 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:1100px;
+        z-index: 10;
+}
+
+.sde-boton-2 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:965px;
+        z-index: 10;
+}
+
+.sde-boton-3 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:780px;
+        z-index: 10;
+}
+
+.sde-boton-4 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:600px;
+        z-index: 10;
+}
+
+.sde-boton-5 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:495px;
+        z-index: 10;
+} 
+
+.sde-boton-8 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:415px;
+        z-index: 10;
+} 
+.sde-boton-10 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:300px;
+        z-index: 10;
+}
+
+.sde-boton-11 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:180px;
+        z-index: 10;
+}
+
+.sde-boton-12 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:100px;
+        z-index: 10;
+}
+.sde-boton-13 {
+    display:scroll;
+        position:fixed;
+        /* display:none; */
+        bottom:5px;
+        right:100px;
+        z-index: 10;
+}
+/* captura requisicion */
+.creareq-boton-1 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:920px;
+        z-index: 10;
+}
+
+.creareq-boton-2 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:770px;
+        z-index: 10;
+}
+
+.creareq-boton-3 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:630px;
+        z-index: 10;
+}
+
+.creareq-boton-4 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:485px;
+        z-index: 10;
+}
+
+.creareq-boton-5 {
+    display:scroll;
+        position:fixed;
+        display:none;
+        bottom:5px;
+        right:380px;
+        z-index: 10;
+}
+
+/* modificar requisicion */ 
+.editareq-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:82%;
+        z-index: 10;
+}
+
+.editareq-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:75%;
+        z-index: 10;
+}
+
+.editareq-boton-3 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:67%;
+        z-index: 10;
+}
+
+.editareq-boton-4 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:61%;
+        z-index: 10;
+}
+.editareq-boton-5 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:53%;
+        z-index: 10;
+}
+.editareq-boton-6 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:38%;
+        z-index: 10;
+}
+.editareq-boton-7 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:23%;
+        z-index: 10;
+}
+.editareq-boton-8 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:9%;
+        z-index: 10;
+}
+.metodopago-boton-6 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:540px;
+        z-index: 10;
+}
+ 
+/* modificar vales */ 
+.crearval-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.crearval-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:865px;
+        z-index: 10;
+}
+
+.crearval-boton-3 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:780px;
+        z-index: 10;
+}
+
+.crearval-boton-4 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:570px;
+        z-index: 10;
+}
+.crearval-boton-5 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:420px;
+        z-index: 10;
+}
+.crearval-boton-6 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:310px;
+        z-index: 10;
+}
+/* cotizar requisicion */
+
+.cotreq-boton-0 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:1070px;
+        z-index: 10;
+}
+.cotreq-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right: 80%;
+        z-index: 10;
+}
+
+.cotreq-boton-2 {
+    display:scroll;
+    position:fixed;
+    bottom:5px;
+    right: 66%;
+    z-index: 10;
+}
+
+.cotreq-boton-3 {
+    display:scroll;
+    position:fixed;
+    bottom:5px;
+    right: 54%;
+    z-index: 10;
+}
+
+.cotreq-boton-4 {
+    display:scroll;
+    position:fixed;
+    bottom:5px;
+    right: 42%;
+    z-index: 10;
+}
+
+.cotreq-boton-5 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:900px;
+        z-index: 10;
+}
+
+.cotreq-boton-6 {
+    display:scroll;
+    position:fixed;
+    bottom:5px;
+    right: 34%;
+    z-index: 10;
+}
+.cotreq-boton-7 {
+    display:scroll;
+    position:fixed;
+    bottom:5px;
+    right: 18%;
+    z-index: 10;
+}
+.cotreq-boton-8 {
+    display:scroll;
+    position:fixed;
+    bottom:5px;
+    right: 4%;
+    z-index: 10;
+}
+.cotreq-boton-9 {
+    display:scroll;
+    position:fixed;
+    bottom:5px;
+    right: 25%;
+    z-index: 10;
+}
+/* completar cotizacion */ 
+.cotfinal-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.cotfinal-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:900px;
+        z-index: 10;
+}
+
+.cotfinal-boton-3 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:740px;
+        z-index: 10;
+}
+
+/* modificar cotizacion final */ 
+.editarcf-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.editarcf-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:840px;
+        z-index: 10;
+}
+
+/* generar orden de compra */
+.genoc-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.genoc-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:780px;
+        z-index: 10;
+}
+
+/* capturar OC sin cotizacion */ 
+.cocsc-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.cocsc-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.cocsc-boton-3 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:790px;
+        z-index: 10;
+}
+
+.cocsc-boton-4 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:640px;
+        z-index: 10;
+}
+.cocsc-boton-5 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:540px;
+        z-index: 10;
+}
+
+/* captura orden de compra */ 
+ .coc-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:975px;
+        z-index: 10;
+}
+
+.coc-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:885px;
+        z-index: 10;
+}
+
+.coc-boton-3 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:745px;
+        z-index: 10;
+}
+
+.coc-boton-4 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:605px;
+        z-index: 10;
+}
+
+.coc-boton-5 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:500px;
+        z-index: 10;
+}
+
+.coc-boton-6 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:390px;
+        z-index: 10;
+}
+
+/* duplicar orden de compra */ 
+.doc-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.doc-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:850px;
+        z-index: 10;
+}
+
+.doc-boton-3 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.doc-boton-4 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:840px;
+        z-index: 10;
+}
+.doc-boton-5 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:650px;
+        z-index: 10;
+}
+/* modificar orden de compra */
+.moc-boton-0 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:1050px;
+        z-index: 10;
+}
+
+.moc-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.moc-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:845px;
+        z-index: 10;
+}
+
+.moc-boton-3 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:765px;
+        z-index: 10;
+}
+
+.moc-boton-4 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:570px;
+        z-index: 10;
+}
+
+.moc-boton-5 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:490px;
+        z-index: 10;
+}
+
+.moc-boton-6 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:365px;
+        z-index: 10;
+}
+
+.moc-boton-7 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.moc-boton-8 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:845px;
+        z-index: 10;
+}
+
+.moc-boton-9 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:265px;
+        z-index: 10;
+}
+
+.moc-boton-10 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:255px;
+        z-index: 10;
+}
+.moc-boton-11 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:220px;
+        z-index: 10;
+}
+
+
+/* depurar oc */
+.moc-boton-cda1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:250px;
+        z-index: 10;
+}
+
+.moc-boton-cda2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:5px;
+        z-index: 10;
+}
+
+/* adjuntar facturas */
+.adfa-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.adfa-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:810px;
+        z-index: 10;
+}
+
+.adfa-boton-3 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:700px;
+        z-index: 10;
+}
+
+/* conctabilizar */
+.conta-boton-1 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:950px;
+        z-index: 10;
+}
+
+.conta-boton-2 {
+    display:scroll;
+        position:fixed;
+        bottom:5px;
+        right:840px;
+        z-index: 10;
+}
