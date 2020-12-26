@@ -1,7 +1,6 @@
 # sucursales
-examen
-# sucursales
-examen
+Examen
+ 
     Pasos para instalación
 1 Descargar el repositorio.
 2 Ubicar proyecto en la carpeta de su servidor apache, en caso de WAMPSERVER se llama www
